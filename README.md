@@ -10,4 +10,4 @@
  [Предсказание спроса в аэропортах.](https://github.com/DAAkimov/yaPraktikumProjects/tree/main/12_time) | Использование машинного обучения для предсказания спроса на такси в аэропорту | Предобработка данных, анализ данных, работа в временными рядами, catboost |
  
  
- #### Email - Akimov92@yandex.ru
+ #### Email для связи - Akimov92@yandex.ru
