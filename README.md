@@ -8,3 +8,6 @@
 | [Выбор перспективного региона для нефтяной разработки](https://github.com/DAAkimov/yaPraktikumProjects/tree/main/8_ml_in_busines) | Использование лин. регрессии для предсказания запасов сырья в скважине. Расчет прибыли и рисков | Предобработка данных, анализ данных, bootstrep |
 | [Предсказание параметра восстановления золота из руды.](https://github.com/DAAkimov/yaPraktikumProjects/tree/main/9_analysis_and_ml) | Выбор и обучение модели предсказания восстановления золота из руды. | Предобработка данных, анализ данных, RandomForestRegressor, KNeighborsRegressor |
  [Предсказание спроса в аэропортах.](https://github.com/DAAkimov/yaPraktikumProjects/tree/main/12_time) | Использование машинного обучения для предсказания спроса на такси в аэропорту | Предобработка данных, анализ данных, работа в временными рядами, catboost |
+ 
+ 
+ #### Email - Akimov92@yandex.ru
